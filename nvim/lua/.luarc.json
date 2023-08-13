@@ -1,0 +1,18 @@
+{
+    "workspace.library": [
+        "/home/ranford/.config/nvim",
+        "/etc/xdg/nvim",
+        "/home/ranford/.local/share/nvim/site",
+        "/home/ranford/.local/share/nvim/site/pack/packer/start/Comment.nvim",
+        "/home/ranford/.local/share/nvim/site/pack/packer/start/lualine.nvim",
+        "/home/ranford/.local/share/nvim/site/pack/packer/start/nvim-lspconfig",
+        "/home/ranford/.local/share/nvim/site/pack/packer/start/nvim-tree.lua",
+        "/home/ranford/.local/share/nvim/site/pack/packer/start/nvim-web-devicons",
+        "/home/ranford/.local/share/nvim/site/pack/packer/start/onedark.nvim",
+        "/home/ranford/.local/share/nvim/site/pack/packer/start/packer.nvim",
+        "/usr/share/nvim/runtime",
+        "/usr/lib/nvim",
+        "/usr/share/vim/vimfiles",
+        "${3rd}/luassert/library"
+    ]
+}

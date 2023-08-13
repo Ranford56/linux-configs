@@ -1,0 +1,43 @@
+local status, autotag = pcall(require, "nvim-ts-autotag")
+
+if (not status) then return end
+
+autotag.setup({
+  filetypes = {
+    "html",
+    "xml",
+    "javascript",
+    "javascriptreact",
+    "typescriptreact",
+    "svelte",
+    "vue",
+    "php",
+    "blade",
+    "ejs",
+    "jinja",
+    "liquid",
+    "markdown",
+    "css",
+    "scss",
+    "json",
+    "graphql",
+    "javascript.jsx",
+    "typescript.tsx",
+    "javascriptreact",
+    "typescriptreact",
+    "svelte",
+    "vue",
+    "php",
+    "blade",
+    "ejs",
+    "jinja",
+    "liquid",
+    "markdown",
+    "css",
+    "scss",
+    "json",
+    "graphql",
+    "javascript.jsx",
+    "typescript.tsx",
+  },
+})
